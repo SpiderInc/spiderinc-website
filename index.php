@@ -9,7 +9,7 @@
     <style>
     
       .center{
-        text-align:center;
+        text-align:center !important;
       }
       
       .gray{
